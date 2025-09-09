@@ -33,5 +33,12 @@ This project analyzes Electric Vehicle (EV) sales in India over a 10-year period
 - **Tableau** – Data visualization and dashboard creation
 - **Excel/CSV Data** – Source files for EV sales data
 
-## 📂 Project Structure
+## 📸 Dashboard Snapshots
 
+**EV Sales Overview (2014–2024)**  
+(Add second dashboard screenshot here once uploaded.)
+
+## 🚀 Conclusion
+The dashboard highlights India’s rapid EV adoption trajectory, led by 2-Wheelers and 3-Wheelers. The project helps businesses and policymakers identify growth opportunities, adoption hotspots, and future investment potential in India’s EV sector.
+
+---
