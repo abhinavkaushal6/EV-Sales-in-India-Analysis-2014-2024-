@@ -28,6 +28,11 @@ Top States	Uttar Pradesh, Maharashtra, Karnataka emerge as EV hubs.
 Urban Demand	Delhi, Bangalore, Pune drive consistent sales growth.
 Commercial EVs	3-Wheelers dominate for last-mile delivery and public transport.
 4-Wheelers Lag	Adoption is slow due to high prices and limited charging infrastructure.
+
+🚀 Conclusion
+
+The dashboard highlights India’s rapid EV adoption trajectory, led by 2-Wheelers and 3-Wheelers. The project helps businesses and policymakers identify growth opportunities, adoption hotspots, and future investment potential in India’s EV sector.
+
 🛠️ Tools & Technologies
 
 Tableau – Data visualization and dashboard creation
